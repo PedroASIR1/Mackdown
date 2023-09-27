@@ -1,7 +1,7 @@
 # Markdown: Simplifying Documentation
 
 ## _Introduction_
-
+...
 Markdown is a simple **markup language** designed by John Gruber in 2004 for creating formatted text using plain text editors. It's commonly used in various online contexts, including blogging, instant messaging, forums, collaborative software, documentation, and readme files. Its primary appeal is its readability in source code form. It has gained popularity due to its simplicity and ease of use. Markdown is particularly suited for documenting software projects, as it allows developers and writers to **focus on content** rather than complex formatting.
 
 Markdown provides a simple way to format text, create headings, lists, links, and even embed code and images within documentation.
