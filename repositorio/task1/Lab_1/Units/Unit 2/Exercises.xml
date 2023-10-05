@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book>
+<authors>
+    <author> Isable Castro </author>
+    <author> Domingo Fernández Pérez </author>
+</authors>
+<title>XML Guía de Aprendizaje</title>
+<price moneda="euros">21.99</price>
+</book> 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <library xmlns:auth= "http://www.fictionalnamespace.com">
+    <book>
+        <title> How to whistle </title>
+     <auth:authors>
+        <author> Juan Ruiz </author>
+    </auth:authors>
+        <publisher> La Janda </publisher>
+        <publication_date>2023-01-15</publication_date>
+        <ISBN>978-1234567890</ISBN>
+        <price> $29.99 </price>
+        <pages> 300 </pages>
+    </book>
+    
+    <book>
+        <title>Data Science for beginners</title>
+        <auth:authors>
+            <author>Juan Ruiz</author>
+            </auth:authors>
+        <publisher>TechPress</publisher>
+        <publication_date>2022-08-20</publication_date>
+        <ISBN>978-9876543210</ISBN>
+        <price> $25.50 </price>
+        <pages> 250 </pages>
+    </book>
+    
+    <book>
+        <title> History of Art </title>
+        <auth:authors>
+            <author> Michael Brown </author>
+        </auth:authors>
+        <publisher> ArtBooks </publisher>
+        <publication_date>2021-05-10</publication_date>
+        <ISBN> 978-5678901234 </ISBN>
+        <price> $35.75 </price>
+        <pages> 400 </pages>
+    </book>
+    
+    <book>
+        <title> Java Programming Basics </title>
+        <auth:authors>
+            <author> David Clark </author>
+        </auth:authors>
+        <publisher> CodingBooks </publisher>
+        <publication_date> 2022-11-05 </publication_date>
+        <ISBN> 978-0123456789 </ISBN>
+        <price> $19.99 </price>
+        <pages> 220 </pages>
+    </book>
+</library>

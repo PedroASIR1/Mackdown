@@ -1,0 +1,25 @@
+<vehicles>
+<car id= 33>
+<brand> Renault</brand>
+<model> Clio</model>
+<year> 2005</year>
+<type> Sedan</type>
+<num_wheels> 4</num_wheels>
+ 
+<car id= 22>
+<brand> Chevrolet</brand>
+<model> Silverado</model>
+<year> 1995</year>
+<type> 4x4</type>
+<num_wheels> 4</num_wheels>
+
+<car id= 11>
+<brand> Ford</brand>
+<model> Focus rs</model>
+<year> 2002</year>
+<type> Sport</type>
+<num_wheels> 4</num_wheels>
+</vehicles>  
+
+
+
